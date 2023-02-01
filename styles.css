@@ -1,0 +1,54 @@
+body {
+    background-color: blue;
+    color: aliceblue;
+    max-width: 850px;
+    margin: auto;
+    font-size: 18px;
+}
+
+header {
+    margin: 35px 0;
+    font-size: 16px;
+}
+
+header nav a {
+    display: block;
+    text-align: left;
+}
+
+a {
+    color: yellow;
+}
+
+.Hero {
+    text-align: center;
+    font-size: 60px;
+    padding: 20px 12px 50px;
+    background-image: url(https://ak.picdn.net/shutterstock/videos/8618572/thumb/1.jpg)
+}
+.Hero > p {
+    font-size: 25px;
+    margin: 12px 0;
+    text-align: center;
+    color: yellow;
+}
+
+h1, h2 {
+    text-align: center;
+    color: orange
+}
+
+h2 {
+    font-size: 30px;
+}
+h3 {
+    color: yellow;
+    font-size: 18px;
+}
+
+
+footer p {
+    font-size: 12px;
+    padding: 35px 0 12px;
+    text-align: center
+}
